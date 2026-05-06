@@ -4,3 +4,6 @@ langchain-core
 python-dotenv
 pydantic
 jupyter
+langchain-community 
+pypdf 
+cryptography
