@@ -1,0 +1,7 @@
+fastmcp[apps]>=3.1
+langchain
+langchain-openai
+langchain-core
+langchain-mcp-adapters
+python-dotenv
+jupyter

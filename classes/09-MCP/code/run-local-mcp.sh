@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/inspector uv run /Users/adampetro/source/Teaching/DTI/source/exercises/5-mcp/sample-server.py
