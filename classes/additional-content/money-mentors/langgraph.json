@@ -1,0 +1,7 @@
+{
+  "dependencies": ["langchain-openai", "langchain", "langgraph", "python-dotenv", "pydantic"],
+  "graphs": {
+    "agent": "./agent.py:graph"
+  },
+  "env": ".env"
+}

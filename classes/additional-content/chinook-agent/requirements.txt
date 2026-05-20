@@ -1,0 +1,5 @@
+langchain-openai>=0.3.0
+langchain[openai]>=1.2.15
+langgraph>=0.4.0
+python-dotenv>=1.1.0
+langgraph-cli[inmem]>=0.2.0
